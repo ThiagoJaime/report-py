@@ -1,10 +1,8 @@
-# 🚀 Rea 🚀
+# 🚀 Relatório 🚀
 
 ## 📜 Contexto
 
 Uma empresa de desenvolvimento de software está em busca de insights valiosos para otimizar sua produtividade. Com base nos dados de produtividade coletados ao longo de várias semanas, você está encarregado de construir um **RELATÓRIO** incrível que guiará a equipe rumo ao sucesso!
-
-![Contexto](./path/to/image.png)
 
 ---
 
